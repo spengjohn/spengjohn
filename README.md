@@ -22,9 +22,9 @@ A free, local-first job search app where you choose where your data lives and wh
 
 `TypeScript` `React` `Vite` `Astro` `Python` `SQL` `C#` `pandas` `scikit-learn` `Git` `GitLab CI`
 
-#### 🔭 What I'm looking for
+<!---#### 🔭 What I'm looking for
 
-Software, data, AI, research, consulting, and project management roles, especially in energy, finance, healthcare and operations. I'm after a **Spring 2027 internship** near Houston, and **Summer 2027 internships or full-time roles** in Colorado, New Mexico, Minnesota, Washington or the Houston area.
+Software, data, AI, research, consulting, and project management roles, especially in energy, finance, healthcare and operations. I'm after a **Spring 2027 internship** near Houston, and **Summer 2027 internships or full-time roles** in Colorado, New Mexico, Minnesota, Washington or the Houston area.--->
 
 ---
 
