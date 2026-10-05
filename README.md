@@ -15,12 +15,7 @@ A free, local-first job search app where you choose where your data lives and wh
 - **Bring your own AI, or none.** A no-AI mode, a review gate by default, and prompt-injection defenses enforced in code.
 - **Accessibility in the build.** a11y checks run in lint, so regressions fail CI.
 
-[Live app](https://guyot.sgej.dev) · [Case study](https://sgej.dev/projects/guyot/) · [Code](https://github.com/spengjohn/guyot) --->
----
-#### 🪴 Also: [sgej.dev](https://sgej.dev)
-
-My portfolio and blog, built with Astro and TypeScript, Decap CMS, and KaTeX for math, deployed on GitLab Pages.
-
+[Live app](https://guyot.sgej.dev) · [Case study](https://sgej.dev/projects/guyot/) · [Code](https://github.com/spengjohn/guyot) --->  
 ---
 
 #### 🧰 Tools I use
