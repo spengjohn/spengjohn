@@ -1,20 +1,36 @@
-Hi, I’m Spencer. Contact: @spengjohn on LinkedIn.
+### Hi, I'm Spencer 🌱
 
-I'm a junior CS student currently learning Software Design this summer.
-Prev taken courses include: 
-- Intro to Programming
-- Computer Architecture
-- Data Structures
-- Algos
-- Intro to Networks
-- Intro to Databases
-- Undergrad Independent Study (mentored research)
+I'm a senior computer science student at the University of Houston. I build responsible and human-centered software: **local-first, private by default, and accessible**.
 
-I am relatively new to programming and have enjoyed expanding my knowledge and skillsets during my undergrad career thus far.
-
-The majority of the repos hosted on this account will be school projects/personal projects. 
+🌐 **Portfolio:** [sgej.dev](https://sgej.dev) · 💼 **LinkedIn:** [@spengjohn](https://www.linkedin.com/in/spengjohn) · ✉️ [contact@sgej.dev](mailto:contact@sgej.dev)
 
 <!---
-spengjohn/spengjohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+#### 🍇 Featured project: [Guyot](https://guyot.sgej.dev)
+
+A free, local-first job search app where you choose where your data lives and which AI, if any, helps.
+
+- **No backend, no accounts.** Data stays in the browser or your own cloud storage, encrypted before upload.
+- **Sync without a server.** Field-by-field merges with a conflict log, so no edit is silently lost.
+- **Bring your own AI, or none.** A no-AI mode, a review gate by default, and prompt-injection defenses enforced in code.
+- **Accessibility in the build.** a11y checks run in lint, so regressions fail CI.
+
+[Live app](https://guyot.sgej.dev) · [Case study](https://sgej.dev/projects/guyot/) · [Code](https://github.com/spengjohn/guyot) --->
+---
+#### 🪴 Also: [sgej.dev](https://sgej.dev)
+
+My portfolio and blog, built with Astro and TypeScript, Decap CMS, and KaTeX for math, deployed on GitLab Pages.
+
+---
+
+#### 🧰 Tools I use
+
+`TypeScript` `React` `Vite` `Astro` `Python` `SQL` `C#` `pandas` `scikit-learn` `Git` `GitLab CI`
+
+#### 🔭 What I'm looking for
+
+Software, data, AI, research, consulting, and project management roles, especially in energy, finance, healthcare and operations. I'm after a **Spring 2027 internship** near Houston, and **Summer 2027 internships or full-time roles** in Colorado, New Mexico, Minnesota, Washington or the Houston area.
+
+---
+
+<sub>My main home for code is [GitLab](https://gitlab.com/sgej); some repos here are mirrors. Older repos on this account are school and personal projects from earlier in my degree.</sub>
